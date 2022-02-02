@@ -10,10 +10,7 @@
 
 # 视频
 
-| SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，史上最全面的springcloud微服务技术栈课程\|黑马程序员Java微服务_哔哩哔哩_bilibili
-https://www.bilibili.com/video/BV1LQ4y127n4 | 2021年 |
-| ------------------------------------------------------------ | ------ |
-|                                                              |        |
-
-
+| SpringCloud+RabbitMQ+Docker+Redis+搜索+分布式，史上最全面的springcloud微服务技术栈课程\|黑马程序员Java微服务_哔哩哔哩_bilibili | https://www.bilibili.com/video/BV1LQ4y127n4 |
+| ------------------------------------------------------------ | ------------------------------------------- |
+|                                                              |                                             |
 
